@@ -1,4 +1,4 @@
-# Project
+# Landing Page
 1.PORTFOLIO -
 Description:
 - This is a static website built using HTML and CSS.
